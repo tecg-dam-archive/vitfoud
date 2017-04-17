@@ -10,10 +10,12 @@ import { Router } from "express";
 
 import list from "../controllers/places/list";
 import getComments from "../controllers/places/comments/list";
+import addComment from "../controllers/places/comments/add";
 
 let oRouter = new Router();
 
 oRouter.get( "/places", list );
 oRouter.get( "/places/:slug/comments", getComments );
+oRouter.post( "/places/:slug/comments", addComment );
 
 export default oRouter;

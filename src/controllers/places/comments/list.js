@@ -1,6 +1,6 @@
 /* hepl-ria/vitfoud-server
  *
- * ~/src/controllers/places/comments/list.js - Controller for places' comments list
+ * ~/controllers/places/comments/list.js - Controller for places' comments list
  *
  * coded by leny@flatLand!
  * started at 17/04/2017
