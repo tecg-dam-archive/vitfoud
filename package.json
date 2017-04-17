@@ -1,0 +1,9 @@
+{
+  "name": "vitfoud-server",
+  "version": "0.0.1",
+  "description": "Server code for hepl vitfoud project",
+  "main": "bin/main.js",
+  "repository": "https://github.com/hepl-ria/vitfoud",
+  "author": "leny <info@flatland.be>",
+  "license": "UNLICENSE"
+}
