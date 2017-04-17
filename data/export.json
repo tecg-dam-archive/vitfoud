@@ -1,0 +1,3443 @@
+[
+  {
+    "slug": "agora",
+    "name": "Agora",
+    "address": "Rue Marché aux Herbes 101 Grasmarkt\n1000 Bruxelles/Brussel",
+    "latitude": 50.847,
+    "longitude": 4.354,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "andenne",
+    "name": "Andenne",
+    "address": "Chaussée d'Anton, 15\n5300 Andenne",
+    "latitude": 50.491253,
+    "longitude": 5.070813,
+    "hours": [
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "anspach",
+    "name": "Anspach",
+    "address": "56, Boulevard Anspachlaan\n1000 Bruxelles/Brussel",
+    "latitude": 50.849,
+    "longitude": 4.351,
+    "hours": [
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        11,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "arlon",
+    "name": "Arlon",
+    "address": "Route de Longwy 603\n6700 Arlon /Aarlen",
+    "latitude": 49.65,
+    "longitude": 5.819,
+    "hours": [
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "astridplein",
+    "name": "Astridplein",
+    "address": "Koningin Astridplein 40\n2018 Antwerpen",
+    "latitude": 51.218461,
+    "longitude": 4.420744,
+    "hours": [
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "auderghem",
+    "name": "Auderghem",
+    "address": "Boulevard du Souverain 240 Vorstlaan  - Auderghem / Oudergem\n1160 Bruxelles /Brussel",
+    "latitude": 50.815,
+    "longitude": 4.425,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "bascule",
+    "name": "Bascule",
+    "address": "Chaussée de Waterloo 605 Waterloosesteenweg - Ixelles / Elsene\n1050 Bruxelles/Brussel",
+    "latitude": 50.818,
+    "longitude": 4.364,
+    "hours": [
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "belle-ile",
+    "name": "Belle Ile",
+    "address": "Quai des Vennes 1\n4020 Liège / Luik",
+    "latitude": 50.615,
+    "longitude": 5.6,
+    "hours": [
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        11,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "berchem-st-agathe",
+    "name": "Berchem St.- Agathe",
+    "address": "Avenue Charles Quint 560 Keizer Karellaan - Berchem-Saint-Agathe/Sint-Agatha-Berchem\n1082 Bruxelles / Brussel",
+    "latitude": 50.872,
+    "longitude": 4.298,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "bierges",
+    "name": "Bierges",
+    "address": "Bld.de l'Europe 51\n1301 Bierges",
+    "latitude": 50.711,
+    "longitude": 4.605,
+    "hours": [
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "bilzen",
+    "name": "Bilzen",
+    "address": "Tongersestraat 91\n3740 Bilzen",
+    "latitude": 50.86,
+    "longitude": 5.501,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "boncelles",
+    "name": "Boncelles",
+    "address": "Route du Condroz 16/8\n4100 Boncelles",
+    "latitude": 50.569,
+    "longitude": 5.551,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "boondael",
+    "name": "Boondael",
+    "address": "Chaussée de Boondael 462 - Ixelles/Elsene\n1050 Bruxelles /Brussel",
+    "latitude": 50.816,
+    "longitude": 4.39,
+    "hours": [
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        11,
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "borsbeek",
+    "name": "Borsbeek",
+    "address": "De Robianostraat 169-171\n2150 Borsbeek",
+    "latitude": 51.195,
+    "longitude": 4.477,
+    "hours": [
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "braine",
+    "name": "Braine",
+    "address": "Chée d'Alsemberg 543\n1420 Braine-l'Alleud",
+    "latitude": 50.706,
+    "longitude": 4.358,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "brugge-markt",
+    "name": "Brugge Markt",
+    "address": "Markt 14\n8000 Brugge / Bruges",
+    "latitude": 51.209,
+    "longitude": 3.224,
+    "hours": [
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "brugge-st-andries",
+    "name": "Brugge St. Andries",
+    "address": "Torhoutsesteenweg 258\n8200 Sint-Andries",
+    "latitude": 51.193,
+    "longitude": 3.197,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "brugge-st-kruis",
+    "name": "Brugge St.- Kruis",
+    "address": "Maalsesteenweg 356\n8310 Brugge Sint-Kruis",
+    "latitude": 51.208,
+    "longitude": 3.267,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "bruparck",
+    "name": "Bruparck",
+    "address": "Boulevard du Centenaire 1 Eeuwfeestlaan - Laeken/Laken\n1020 Bruxelles/Brussel",
+    "latitude": 50.895,
+    "longitude": 4.338,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "bruxelles-gare-du-nord",
+    "name": "Bruxelles Gare Du Nord",
+    "address": "Rue du progrès 76\n1030 Bruxelles/Brussel",
+    "latitude": 50.8599505,
+    "longitude": 4.3603682,
+    "hours": [
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        11,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "chatelineau",
+    "name": "Châtelineau",
+    "address": "Rue du Trieu Kaisin 1\n6200 Châtelineau",
+    "latitude": 50.409,
+    "longitude": 4.497,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "couillet",
+    "name": "Couillet",
+    "address": "Route de Philippeville 329\n6010 Couillet",
+    "latitude": 50.384,
+    "longitude": 4.466,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "de-keyserlei",
+    "name": "De Keyserlei",
+    "address": "De Keyserlei 22\n2018 Antwerpen",
+    "latitude": 51.2177912,
+    "longitude": 4.4167109,
+    "hours": [
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "drogenbos",
+    "name": "Drogenbos",
+    "address": "455 Avenue Paul Gilsonlaan\n1620 Drogenbos",
+    "latitude": 50.794,
+    "longitude": 4.306,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "erasme",
+    "name": "Erasme",
+    "address": "Drève Olympique 2 Olympische Dreef  - Anderlecht\n1070 Bruxelles /Brussel",
+    "latitude": 50.81775,
+    "longitude": 4.278382,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "eupen",
+    "name": "Eupen",
+    "address": "Nereth 32\n4837 Baelen",
+    "latitude": 50.64837543,
+    "longitude": 6.001736116,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "evere",
+    "name": "Evere",
+    "address": "Chaussée d'Haecht 1420 Haachtsesteenweg - Haren\n1130 Bruxelles/Brussel",
+    "latitude": 50.879286,
+    "longitude": 4.41244,
+    "hours": [
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "flemalle",
+    "name": "Flémalle",
+    "address": "Rue du Passage d'Eau N° 2\n4400 Flémalle",
+    "latitude": 50.603,
+    "longitude": 5.485,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "fleron",
+    "name": "Fléron",
+    "address": "Rue de la Clé 1\n4620 Fléron",
+    "latitude": 50.615,
+    "longitude": 5.688,
+    "hours": [
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "frankignoul",
+    "name": "Frankignoul",
+    "address": "Boulevard R. Poincaré 101\n4020 Liège / Luik",
+    "latitude": 50.629,
+    "longitude": 5.585,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "gare-du-midi",
+    "name": "Gare Du Midi",
+    "address": "Gare du Midi - Zuidstation\n1060 Bruxelles/Brussel",
+    "latitude": 50.8362859,
+    "longitude": 4.3376858,
+    "hours": [
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ],
+      [
+        9.5,
+        22.5
+      ]
+    ]
+  },
+  {
+    "slug": "gembloux",
+    "name": "Gembloux",
+    "address": "Chaussée de Tirlemont, 34\n5030 Gembloux",
+    "latitude": 50.5730209,
+    "longitude": 4.698549400000047,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "genk",
+    "name": "Genk",
+    "address": "Rootenstraat 8 b68\n3600 Genk",
+    "latitude": 50.9650241,
+    "longitude": 5.503069,
+    "hours": [
+      [
+        9.5,
+        23
+      ],
+      [
+        9.5,
+        23
+      ],
+      [
+        9.5,
+        23
+      ],
+      [
+        9.5,
+        23
+      ],
+      [
+        9.5,
+        23
+      ],
+      [
+        9.5,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "giant-bar-gare-centrale",
+    "name": "Giant Bar Gare Centrale",
+    "address": "Gare Centrale - Centraal Station\n1000 Bruxelles/Brussel",
+    "latitude": 50.845466,
+    "longitude": 4.357114,
+    "hours": [
+      [
+        11,
+        21
+      ],
+      [
+        11,
+        21
+      ],
+      [
+        11,
+        21
+      ],
+      [
+        11,
+        21
+      ],
+      [
+        11,
+        21
+      ],
+      [
+        11,
+        20.5
+      ],
+      [
+        11,
+        20.5
+      ]
+    ]
+  },
+  {
+    "slug": "giant-bar-gent-korenmarkt",
+    "name": "Giant Bar Gent Korenmarkt",
+    "address": "Korenmarkt 35\n9000 Gent / Gand",
+    "latitude": 51.0551104,
+    "longitude": 3.7219104,
+    "hours": [
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ],
+      [
+        11,
+        20
+      ]
+    ]
+  },
+  {
+    "slug": "gosselies",
+    "name": "Gosselies",
+    "address": "Rue de la Pépinière 14\n6041 Gosselies",
+    "latitude": 50.476,
+    "longitude": 4.441,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "groot-bijgaarden",
+    "name": "Groot-Bijgaarden",
+    "address": "Autosnelweg  E40 / Autoroute E40\n1702 Groot-Bijgaarden / Grand-Bigard",
+    "latitude": 50.879,
+    "longitude": 4.265,
+    "hours": [
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ],
+      [
+        11,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "haine-st-pierre",
+    "name": "Haine St. Pierre",
+    "address": "21, Chaussée de Redemont\n7100 La Louvière",
+    "latitude": 50.467,
+    "longitude": 4.209,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "hannut",
+    "name": "Hannut",
+    "address": "Rue de Huy 56\n4280 Hannut",
+    "latitude": 50.664016,
+    "longitude": 5.092054,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "hasselt-kinepolis",
+    "name": "Hasselt Kinepolis",
+    "address": "Via media 1\n3500 Hasselt",
+    "latitude": 50.9296431,
+    "longitude": 5.3691746,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "herstal",
+    "name": "Herstal",
+    "address": "Rue Basse Campagne 86\n4040 Herstal",
+    "latitude": 50.686,
+    "longitude": 5.645,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "hognoul",
+    "name": "Hognoul",
+    "address": "Porte de Liège , 8\n4342 Hognoul",
+    "latitude": 50.680791,
+    "longitude": 5.461968,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "houthalen",
+    "name": "Houthalen",
+    "address": "Grote Baan 21\n3530 Houthalen",
+    "latitude": 51.0239457,
+    "longitude": 5.3739894,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "huy",
+    "name": "Huy",
+    "address": "Ave Godin Parnajon 3\n4500 Huy",
+    "latitude": 50.524,
+    "longitude": 5.243,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "imagix-mons",
+    "name": "Imagix Mons",
+    "address": "Boulevard André Delvaux 1\n7000 Mons/Bergen",
+    "latitude": 50.461265,
+    "longitude": 3.935135,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "jambes",
+    "name": "Jambes",
+    "address": "Chaussée de Liège 519\n5100 Jambes",
+    "latitude": 50.464,
+    "longitude": 4.899,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "jemappes",
+    "name": "Jemappes",
+    "address": "Avenue Wilson 510\n7012 Jemappes",
+    "latitude": 50.449,
+    "longitude": 3.903,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "jumet",
+    "name": "Jumet",
+    "address": "Rue Bastin 7\n6040 Jumet",
+    "latitude": 50.452,
+    "longitude": 4.43,
+    "hours": [
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ],
+      [
+        10.5,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "kapellen",
+    "name": "Kapellen",
+    "address": "Antwerpsesteenweg 354\n2950 Kapellen",
+    "latitude": 51.297,
+    "longitude": 4.44,
+    "hours": [
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "kinepolis-antwerpen",
+    "name": "Kinepolis Antwerpen",
+    "address": "Groenendaallaan 412\n2030 Antwerpen",
+    "latitude": 51.2448341,
+    "longitude": 4.4187638,
+    "hours": [
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "kontich",
+    "name": "Kontich",
+    "address": "De Villermontstraat 14\n2550 Kontich",
+    "latitude": 51.14,
+    "longitude": 4.444,
+    "hours": [
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "korbeek-lo",
+    "name": "Korbeek-Lo",
+    "address": "Vlinderlaan 1F\n3360 Korbeek-Lo",
+    "latitude": 50.865,
+    "longitude": 4.748,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "kraainem",
+    "name": "Kraainem",
+    "address": "50, avenue de Kraainemlaan - Woluwe-St-Lambert / Sint-Lambrechts-Woluwe\n1200 Bruxelles/Brussel",
+    "latitude": 50.849,
+    "longitude": 4.461,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "kuringen",
+    "name": "Kuringen",
+    "address": "Kuringersteenweg 489\n3511 Kuringen",
+    "latitude": 50.9432155,
+    "longitude": 5.285250200000064,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "kuurne",
+    "name": "Kuurne",
+    "address": "Ringlaan 36\n8500 Kortrijk / Courtrai",
+    "latitude": 50.8459763,
+    "longitude": 3.2660083,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "leuven",
+    "name": "Leuven",
+    "address": "Rector De Somerplein 1A\n3000 Leuven / Louvain",
+    "latitude": 50.879,
+    "longitude": 4.702,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "libramont",
+    "name": "Libramont",
+    "address": "rue de l'aliénau 3\n6800 Libramont",
+    "latitude": 49.910658,
+    "longitude": 5.35429,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "lier",
+    "name": "Lier",
+    "address": "Lintsesteenweg 2\n2500 Lier",
+    "latitude": 51.125,
+    "longitude": 4.551,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "louise",
+    "name": "Louise",
+    "address": "Avenue de la Toison d'Or 53 Guldenvlieslaan\n1060 Bruxelles/Brussel",
+    "latitude": 50.836,
+    "longitude": 4.356,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "louvain-la-neuve",
+    "name": "Louvain La Neuve",
+    "address": "Rue Charlemagne 42\n1348 Louvain-la-Neuve",
+    "latitude": 50.67,
+    "longitude": 4.612,
+    "hours": [
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "malmedy",
+    "name": "Malmédy",
+    "address": "Avenue des Alliés 102\n4960 Malmédy",
+    "latitude": 50.423,
+    "longitude": 6.017,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        1
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "marche-en-famenne",
+    "name": "Marche-En-Famenne",
+    "address": "Avenue de France 49\n6900 Marche en Famenne",
+    "latitude": 50.223,
+    "longitude": 5.335,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "mazerine",
+    "name": "Mazerine",
+    "address": "Rue de Genval 51\n1310 La Hulpe",
+    "latitude": 50.728,
+    "longitude": 4.486,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "namur-belgrade",
+    "name": "Namur Belgrade",
+    "address": "Route de Louvain-La-Neuve 12\n5001 Belgrade",
+    "latitude": 50.472484,
+    "longitude": 4.817907,
+    "hours": [
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "namur-champion",
+    "name": "Namur Champion",
+    "address": "Chaussée de Louvain 566\n5020 Champion",
+    "latitude": 50.49,
+    "longitude": 4.894,
+    "hours": [
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "nivelles",
+    "name": "Nivelles",
+    "address": "Chaussée de Mons 18/727\n1400 Nivelles / Nijvel",
+    "latitude": 50.589,
+    "longitude": 4.313,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "oostakker",
+    "name": "Oostakker",
+    "address": "Antwerpsesteenweg 733\n9040 Sint-Amandsberg",
+    "latitude": 51.0728561,
+    "longitude": 3.7757552,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "place-saint-lambert",
+    "name": "Place Saint Lambert",
+    "address": "Rue Joffre 13\n4000 Liège/Luik",
+    "latitude": 50.644,
+    "longitude": 5.572,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "pulhof",
+    "name": "Pulhof",
+    "address": "Grote Steenweg 462\n2600 Berchem",
+    "latitude": 51.185,
+    "longitude": 4.431,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "rocourt",
+    "name": "Rocourt",
+    "address": "Chaussée de Tongres 269\n4000 Rocourt",
+    "latitude": 50.671,
+    "longitude": 5.546,
+    "hours": [
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "roeselare",
+    "name": "Roeselare",
+    "address": "Ooststraat 146\n8800 Roeselare",
+    "latitude": 50.949893,
+    "longitude": 3.129267,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "rue-neuve",
+    "name": "Rue Neuve",
+    "address": "Rue Neuve 121\n1000 Bruxelles/Brussel",
+    "latitude": 50.851,
+    "longitude": 4.355,
+    "hours": [
+      [
+        10,
+        20.5
+      ],
+      [
+        10,
+        20.5
+      ],
+      [
+        10,
+        20.5
+      ],
+      [
+        10,
+        20.5
+      ],
+      [
+        10,
+        20.5
+      ],
+      [
+        10,
+        20.5
+      ],
+      [
+        11,
+        20.5
+      ]
+    ]
+  },
+  {
+    "slug": "ruisbroek",
+    "name": "Ruisbroek",
+    "address": "Autosnelweg Brussel/Parijs  - Autoroute Bruxelles/Paris\n1601 Ruisbroek",
+    "latitude": 50.78,
+    "longitude": 4.3,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "schilde",
+    "name": "Schilde",
+    "address": "Turnhoutsebaan 407\n2970 Schilde",
+    "latitude": 51.25,
+    "longitude": 4.608,
+    "hours": [
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ],
+      [
+        10.5,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "schoten",
+    "name": "Schoten",
+    "address": "Bredabaan 967\n2900 Schoten",
+    "latitude": 51.262,
+    "longitude": 4.464,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "seraing",
+    "name": "Seraing",
+    "address": "rue Cockerill 30\n4100 Seraing",
+    "latitude": 50.614,
+    "longitude": 5.512,
+    "hours": [
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        24
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        11,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "st-niklaas",
+    "name": "St Niklaas",
+    "address": "Kapelstraat  100  shop 24\n9100 Sint-Niklaas",
+    "latitude": 51.151,
+    "longitude": 4.154,
+    "hours": [
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        11,
+        21
+      ]
+    ]
+  },
+  {
+    "slug": "st-denijs-westrem",
+    "name": "St.- Denijs Westrem",
+    "address": "Kortrijksesteenweg 1133A\n9051 Sint-Denijs-Westrem",
+    "latitude": 51.018,
+    "longitude": 3.67,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "st-stevens-woluwe",
+    "name": "St.- Stevens Woluwe",
+    "address": "Leuvensesteenweg 32 Chaussée de Louvain\n1930 Zaventem",
+    "latitude": 50.863,
+    "longitude": 4.431,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "toison-d-or",
+    "name": "Toison d’Or",
+    "address": "Avenue de la Toison d'Or 4 Guldenvlieslaan - Ixelles / Elsene\n1050 Bruxelles/Brussel",
+    "latitude": 50.837927,
+    "longitude": 4.361423,
+    "hours": [
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        10,
+        24
+      ]
+    ]
+  },
+  {
+    "slug": "tournai",
+    "name": "Tournai",
+    "address": "Shopping Centre Les Bastions\n7500 Tournai/Doornik",
+    "latitude": 50.604,
+    "longitude": 3.405,
+    "hours": [
+      [
+        11,
+        23.5
+      ],
+      [
+        11,
+        23.5
+      ],
+      [
+        11,
+        23.5
+      ],
+      [
+        11,
+        23.5
+      ],
+      [
+        11,
+        1.5
+      ],
+      [
+        11,
+        1.5
+      ],
+      [
+        11,
+        23.5
+      ]
+    ]
+  },
+  {
+    "slug": "ville-basse",
+    "name": "Ville Basse",
+    "address": "Boulevard Tirou 107\n6000 Charleroi",
+    "latitude": 50.408,
+    "longitude": 4.442,
+    "hours": [
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "ville-ii",
+    "name": "Ville II",
+    "address": "Centre Commercial Ville 2\n6000 Charleroi",
+    "latitude": 50.418,
+    "longitude": 4.459,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "vilvoorde",
+    "name": "Vilvoorde",
+    "address": "Schaarbeeklei 55\n1800 Vilvoorde",
+    "latitude": 50.915,
+    "longitude": 4.421,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "waregem",
+    "name": "Waregem",
+    "address": "Gentseweg 522\n8793 Sint-Eloois-Vijve",
+    "latitude": 50.899,
+    "longitude": 3.4,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "waterloo",
+    "name": "Waterloo",
+    "address": "Chaussée de Bruxelles 295\n1410 Waterloo",
+    "latitude": 50.711,
+    "longitude": 4.401,
+    "hours": [
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ],
+      [
+        8,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "wemmel",
+    "name": "Wemmel",
+    "address": "Romeinse steenweg 950\n1780 Wemmel",
+    "latitude": 50.897,
+    "longitude": 4.322,
+    "hours": [
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ],
+      [
+        10.5,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "westland",
+    "name": "Westland",
+    "address": "321, Boulevard Sylvain Dupuislaan - Anderlecht\n1070 Bruxelles/Brussel",
+    "latitude": 50.838,
+    "longitude": 4.288,
+    "hours": [
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        10,
+        23
+      ],
+      [
+        9,
+        23
+      ],
+      [
+        9,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "wijnegem",
+    "name": "Wijnegem",
+    "address": "Deurnesteenweg 1\n2110 Wijnegem",
+    "latitude": 51.235,
+    "longitude": 4.489,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "wilrijk",
+    "name": "Wilrijk",
+    "address": "Boomsesteenweg 765\n2610 Wilrijk",
+    "latitude": 51.156,
+    "longitude": 4.384,
+    "hours": [
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ],
+      [
+        10,
+        22
+      ]
+    ]
+  },
+  {
+    "slug": "woluwe-shopping-center",
+    "name": "Woluwe Shopping Center",
+    "address": "Boulevard de la Woluwe 70, b25 Woluwelaan Woluwe-St-Lambert / Sint-Lambrechts-Woluwe\n1200 Bruxelles / Brussel",
+    "latitude": 50.845,
+    "longitude": 4.436,
+    "hours": [
+      [
+        9,
+        21
+      ],
+      [
+        9,
+        21
+      ],
+      [
+        9,
+        21
+      ],
+      [
+        9,
+        21
+      ],
+      [
+        9,
+        22
+      ],
+      [
+        9,
+        21
+      ],
+      [
+        9,
+        21
+      ]
+    ]
+  },
+  {
+    "slug": "zaventem",
+    "name": "Zaventem",
+    "address": "Brussels Airport Arrivals, 2nd floor b41\n1930 Zaventem",
+    "latitude": 50.897,
+    "longitude": 4.486,
+    "hours": [
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ],
+      [
+        11,
+        23
+      ]
+    ]
+  },
+  {
+    "slug": "zaventem-pier-a",
+    "name": "Zaventem Pier A",
+    "address": "Brussels Airport Departures b41\n1930 Zaventem",
+    "latitude": 50.901,
+    "longitude": 4.487,
+    "hours": [
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        10,
+        21
+      ]
+    ]
+  }
+]
