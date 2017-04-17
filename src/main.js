@@ -14,6 +14,7 @@ import responseTime from "response-time";
 import mitanEko from "mitan-eko";
 import zouti from "zouti";
 
+import placesRoutes from "./routes/places";
 import systemRoutes from "./routes/system";
 
 let oApp = express();
@@ -25,6 +26,7 @@ oApp.use( bodyParser.urlencoded( {
     "extended": true,
 } ) );
 
+oApp.use( placesRoutes );
 oApp.use( systemRoutes );
 
 oApp.listen( APP_PORT, () => {
