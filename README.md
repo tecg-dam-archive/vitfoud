@@ -1,4 +1,4 @@
-# vitfoud-server
+# vitfoud (server)
 
 > Server code for [hepl-dw/vitfoud](https://github.com/hepl-dw/vitfoud) project.
 
