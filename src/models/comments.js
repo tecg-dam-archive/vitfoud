@@ -14,7 +14,7 @@ let fGet, fSet;
 fGet = function( sSlug ) {
     let aComments = [];
 
-    if ( oCommentsStore.has( sSlug ) && fGet.lastCall < ONE_DAY ) {
+    if ( oCommentsStore.has( sSlug ) && Date.now() - fGet.lastCall < ONE_DAY ) {
         aComments = oCommentsStore.get( sSlug );
     }
 
