@@ -1,0 +1,4 @@
+node_modules
+npm-debug.log
+exo-*/script.min.js
+_shared/*.min.js
