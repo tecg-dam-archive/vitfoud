@@ -8,10 +8,12 @@
 
 import { Router } from "express";
 
-import list from "../controllers/places/list.js";
+import list from "../controllers/places/list";
+import getComments from "../controllers/places/comments/list";
 
 let oRouter = new Router();
 
 oRouter.get( "/places", list );
+oRouter.get( "/places/:slug/comments", getComments );
 
 export default oRouter;
