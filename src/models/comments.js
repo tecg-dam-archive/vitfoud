@@ -6,24 +6,23 @@
  * started at 17/04/2017
  */
 
-const ONE_DAY = 86400000,
+const FOUR_HOURS = 14400,
     oCommentsStore = new Map();
 
-let fGet, fSet;
+let fGet, fSet,
+    iLastCall = Date.now();
 
 fGet = function( sSlug ) {
     let aComments = [];
 
-    if ( oCommentsStore.has( sSlug ) && Date.now() - fGet.lastCall < ONE_DAY ) {
+    if ( oCommentsStore.has( sSlug ) && ( Date.now() - iLastCall ) < FOUR_HOURS ) {
         aComments = oCommentsStore.get( sSlug );
     }
 
-    fGet.lastCall = Date.now();
+    iLastCall = Date.now();
 
     return aComments;
 };
-
-fGet.lastCall = Date.now();
 
 fSet = function( sSlug, oComment ) {
     let aComments = fGet( sSlug );
