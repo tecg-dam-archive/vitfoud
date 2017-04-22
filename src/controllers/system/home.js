@@ -9,5 +9,5 @@
 import { send } from "../../utils/api";
 
 export default function( oRequest, oResponse ) {
-    send( oRequest, oResponse, "hepl-ri/vitfoud-server:root" );
+    send( oRequest, oResponse, "hepl-ria/vitfoud-server:root" );
 }
