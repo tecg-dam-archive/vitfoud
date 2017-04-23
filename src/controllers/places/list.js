@@ -33,6 +33,7 @@ export default function( oRequest, oResponse ) {
         "distance": getDistance( oCurrentPosition, { latitude, longitude } ) * 1000,
         hours,
         name,
+        "position": { latitude, longitude },
         slug,
     } ) ).filter( ( { distance } ) => distance <= ( iSearchRadius * 1000 ) );
 
