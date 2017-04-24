@@ -30,7 +30,7 @@ export default function( oRequest, oResponse ) {
 
     aFoundedPlaces = Array.from( aPlaces, ( { latitude, longitude, slug, address, hours, name } ) => ( {
         address,
-        "distance": getDistance( oCurrentPosition, { latitude, longitude } ) * 1000,
+        "distance": Math.floor( getDistance( oCurrentPosition, { latitude, longitude } ) * 1000 ),
         hours,
         name,
         "position": { latitude, longitude },
